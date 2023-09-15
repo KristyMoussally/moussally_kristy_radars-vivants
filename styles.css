@@ -5,3 +5,9 @@ body {
   margin: 0;
 }
 
+.title{
+  color: white;
+  font-family: Arial;
+  height: 70px;
+  max-weight: 700px;
+}
